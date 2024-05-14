@@ -1,1 +1,2 @@
-# chanyoung.github.io
+# Homepage of Chanyoung Park
+About Portfolio
